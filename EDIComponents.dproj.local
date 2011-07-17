@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/07/17 09:53:32.593.pas,C:\Documents and Settings\Brad\My Documents\RAD Studio\Projects\Unit5.pas=C:\Documents and Settings\Brad\My Documents\RAD Studio\Projects\EDIComponents\fmEDIComponentsUnit.pas</Transaction>
+    <Transaction>2011/07/17 09:53:32.593.dfm,C:\Documents and Settings\Brad\My Documents\RAD Studio\Projects\Unit5.dfm=C:\Documents and Settings\Brad\My Documents\RAD Studio\Projects\EDIComponents\fmEDIComponentsUnit.dfm</Transaction>
+    <Transaction>2011/07/17 09:53:49.546.dproj,C:\Documents and Settings\Brad\My Documents\RAD Studio\Projects\Project4.dproj=C:\Documents and Settings\Brad\My Documents\RAD Studio\Projects\EDIComponents\EDIComponents.dproj</Transaction>
+    <Transaction>2011/07/17 09:55:18.312.pas,C:\Documents and Settings\Brad\My Documents\RAD Studio\Projects\EDIComponents\Unit1.pas=C:\Documents and Settings\Brad\My Documents\RAD Studio\Projects\EDIComponents\Elements\TElementBaseUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
